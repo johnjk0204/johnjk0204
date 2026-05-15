@@ -1,10 +1,11 @@
 # Python
 backend/venv/
-backend/__pycache__/
-backend/*.pyc
-backend/*.pyo
+**/__pycache__/
+**/*.pyc
+**/*.pyo
 *.egg-info/
 .env
+backend/feedback.db
 
 # Node
 frontend/node_modules/
